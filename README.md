@@ -61,4 +61,32 @@ Designed with a **$200K engineer–level** focus on scalability, performance, DX
 
 ---
 
-## 🗂️ Project Structure
+Google Docs has real-time editing, but it DOES NOT include:
+
+Real-time chat system (Pusher/WebSockets)
+
+Online/offline user status
+
+Message read receipts
+
+File/image attachments inside the chat panel
+
+Group chats + DMs inside the editor
+
+Cloudinary CDN uploads
+
+Stripe PRO subscription system
+
+User dashboard + analytics
+
+Landing page + SaaS system
+
+Role-based access
+
+Discord event logs
+
+Server component database fetching
+
+Direct integration with GitHub/Google/Clerk auth
+
+shadcn professional UI + animations
