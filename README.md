@@ -1,7 +1,6 @@
 # 📄 Real-Time Collaborative Docs (Inspired by Google Docs)
 
-A fully-featured, production-grade real-time document collaboration platform inspired by Google Docs — built with **Next.js 15**, **TypeScript**, **Pusher**, and **Cloud-native architecture**.  
-Designed with a **$200K engineer–level** focus on scalability, performance, DX, and modern SaaS engineering.
+A fully-featured, production-grade real-time document collaboration platform inspired by Google Docs — built with **Next.js 15**, **TypeScript**, **Pusher**, and **Cloud-native architecture**. focus on scalability, performance, DX, and modern SaaS engineering.
 
 ---
 
