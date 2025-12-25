@@ -62,7 +62,7 @@ A fully-featured, production-grade real-time document collaboration platform ins
 
 Google Docs has real-time editing, but it DOES NOT include:
 
-** Real-time chat system (Pusher/WebSockets)
+# Real-time chat system (Pusher/WebSockets)
 
 Online/offline user status
 
