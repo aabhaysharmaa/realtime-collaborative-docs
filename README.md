@@ -62,30 +62,30 @@ A fully-featured, production-grade real-time document collaboration platform ins
 
 Google Docs has real-time editing, but it DOES NOT include:
 
-# Real-time chat system (Pusher/WebSockets)
+- Real-time chat system (Pusher/WebSockets)
 
-Online/offline user status
+- Online/offline user status
 
-Message read receipts
+- Message read receipts
 
-File/image attachments inside the chat panel
+- File/image attachments inside the chat panel
 
-Group chats + DMs inside the editor
+- Group chats + DMs inside the editor
 
-Cloudinary CDN uploads
+- Cloudinary CDN uploads
 
-Stripe PRO subscription system
+- Stripe PRO subscription system
 
-User dashboard + analytics
+- User dashboard + analytics
 
-Landing page + SaaS system
+- Landing page + SaaS system
 
-Role-based access
+- Role-based access
 
-Discord event logs
+- Discord event logs
 
-Server component database fetching
+- Server component database fetching
 
-Direct integration with GitHub/Google/Clerk auth
+- Direct integration with GitHub/Google/Clerk auth
 
-shadcn professional UI + animations
+- shadcn professional UI + animations
